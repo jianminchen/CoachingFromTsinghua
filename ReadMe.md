@@ -21,3 +21,5 @@ http://juliachencoding.blogspot.com/2018/05/hire-and-develop-best.html
 July 18,2018
 
 I got the advice to work on easy level algorithms on Leetcode.com. I should try to work on one easy level algorithm using 10 to 15 minutes. Try to complete 10 to 15 algorithms in one day. 
+
+http://juliachencoding.blogspot.com/2018/07/35-minutes-talk.html
