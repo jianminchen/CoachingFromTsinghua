@@ -6,7 +6,7 @@ Here is the blog to document all the coaching session I got. http://juliachencod
 
 And also I like to check in all the source code into github. To use stack to find next large elment is my most favorite algorithm. I should have practiced more and read more on this monotonic increasing/ decreasing data structure, there are a few of cases to apply the technique. 
 
-How I made a decisio who to hire as my coach in May 2018?
+How I made a decision who to hire as my coach in May 2018?
 
 http://juliachencoding.blogspot.com/search?q=hire+the+best
 
