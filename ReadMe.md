@@ -30,6 +30,10 @@ Here is the blog I wrote to document 45 minutes coaching from my ex-coach.
 
 http://juliachencoding.blogspot.com/2018/08/45-minutes-coaching.html
 
+I also documented the coaching compared to a two time Google intern I got after a mock interview. Here is the blog:
+
+http://juliachencoding.blogspot.com/2018/08/google-intern-coaching-vs-microsoft.html
+
 
 August 14, 2018
 
