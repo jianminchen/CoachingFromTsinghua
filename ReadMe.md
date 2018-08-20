@@ -24,6 +24,13 @@ I got the advice to work on easy level algorithms on Leetcode.com. I should try 
 
 http://juliachencoding.blogspot.com/2018/07/35-minutes-talk.html
 
+August 5, 2018
+
+Here is the blog I wrote to document 45 minutes coaching from my ex-coach. 
+
+http://juliachencoding.blogspot.com/2018/08/45-minutes-coaching.html
+
+
 August 14, 2018
 
 I just finished another 50 Leetcode algorithms, most of them are easy level. Here is the blog about the progress. 
