@@ -40,3 +40,11 @@ August 14, 2018
 I just finished another 50 Leetcode algorithms, most of them are easy level. Here is the blog about the progress. 
 
 http://juliachencoding.blogspot.com/2018/08/celebration-of-150.html
+
+
+Sept. 2, 2018
+
+I celebrated 180 Leetcode algorithms problem solving here. 
+
+http://juliachencoding.blogspot.com/2018/09/celebration-of-180-mark-i-solved-180.html
+
