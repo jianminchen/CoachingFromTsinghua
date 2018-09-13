@@ -1,6 +1,6 @@
 It is the first time I had a coach to help me to prepare most important onsite, and I like to get ideas how to think hard and deep on algorithm and data structure. 
 
-Here is the blog after the end of coaching session:[say goodbye to my coach](http://juliachencoding.blogspot.com/2018/06/say-goodbye-to-my-coach.html)
+Here is the blog after the end of coaching session: [say goodbye to my coach](http://juliachencoding.blogspot.com/2018/06/say-goodbye-to-my-coach.html)
 
 Here is the blog to document all the coaching session I got. [10 session of mock interviews](http://juliachencoding.blogspot.com/2018/05/time-to-say-goodbye.html)
 
