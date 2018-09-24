@@ -42,3 +42,6 @@ I celebrated 180 Leetcode algorithms problem solving here.
 
 [Celebration of 180](http://juliachencoding.blogspot.com/2018/09/celebration-of-180-mark-i-solved-180.html)
 
+Sept. 23, 2018<br>
+I celebrated 230 leetcode algorithms problem solved here. <br>
+[Say goodbye to string easy level algorithms](http://juliachencoding.blogspot.com/2018/09/say-goodbye-to-easy-level-string.html)<br>
