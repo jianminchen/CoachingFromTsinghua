@@ -14,7 +14,7 @@ I documented detail in the following blog: [hire and develop best](http://juliac
 
 July 18,2018
 
-I got the advice to work on easy level algorithms on Leetcode.com. I should try to work on one easy level algorithm using 10 to 15 minutes. Try to complete 10 to 15 algorithms in one day. 
+I got the advice to work on easy level algorithms on Leetcode.com. I should try to work on one easy level algorithm using 10 to 15 minutes. Try to complete 10 to 15 algorithms in one day. I solved **101 algorithms on Leetcode.com**. 
 
 [35 minutes talk](http://juliachencoding.blogspot.com/2018/07/35-minutes-talk.html)
 
@@ -43,5 +43,5 @@ I celebrated 180 Leetcode algorithms problem solving here.
 [Celebration of 180](http://juliachencoding.blogspot.com/2018/09/celebration-of-180-mark-i-solved-180.html)
 
 Sept. 23, 2018<br>
-I celebrated 230 leetcode algorithms problem solved here. <br>
+I celebrated **230 leetcode algorithms problem** solved here. <br>
 [Say goodbye to string easy level algorithms](http://juliachencoding.blogspot.com/2018/09/say-goodbye-to-easy-level-string.html)<br>
