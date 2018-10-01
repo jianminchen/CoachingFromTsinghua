@@ -45,3 +45,8 @@ I celebrated 180 Leetcode algorithms problem solving here.
 Sept. 23, 2018<br>
 I celebrated **230 leetcode algorithms problem** solved here. <br>
 [Say goodbye to string easy level algorithms](http://juliachencoding.blogspot.com/2018/09/say-goodbye-to-easy-level-string.html)<br>
+
+Oct. 1, 2018<br>
+I completed **239 leetcode algorithms**. I am still working on easy level hashtable algorithms. I played Leetcode weekly contest 104 and worked on three algorithms. 
+
+
