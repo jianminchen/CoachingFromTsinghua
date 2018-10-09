@@ -50,5 +50,5 @@ Oct. 1, 2018<br>
 I completed **239 leetcode algorithms**. I am still working on easy level hashtable algorithms. I played Leetcode weekly contest 104 and worked on three algorithms. 
 
 Oct. 9, 2018 <br>
-Solved 252 algorithms. I am working on Stack easy level algorithms. 
+Solved **252 algorithms**. I am working on Stack easy level algorithms. 
 
