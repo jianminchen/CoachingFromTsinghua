@@ -52,3 +52,6 @@ I completed **239 leetcode algorithms**. I am still working on easy level hashta
 Oct. 9, 2018 <br>
 Solved **252 algorithms**. I am working on Stack easy level algorithms. 
 
+Nov. 13, 2018 <br>
+Solved **300 algorithms**. I am working on middle level tree algorithms. 
+
