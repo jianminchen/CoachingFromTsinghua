@@ -55,3 +55,5 @@ Solved **252 algorithms**. I am working on Stack easy level algorithms.
 Nov. 13, 2018 <br>
 Solved **300 algorithms**. I am working on middle level tree algorithms. 
 
+Nov. 20, 2018 <br>
+Solved **300 algorithms**. I am working on middle level tree algorithms. There are 8 medium level tree algorithms left for me to solve! I start to get comfortable to work on medium level tree algorithms. More patience, and think carefully about use cases. I can solve them one by one. 
