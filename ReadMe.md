@@ -60,3 +60,5 @@ Solved **320 algorithms**. I am working on middle level tree algorithms. There a
 
 March 26, 2019<br>
 I made another practice on union-find algorithm and it was still too challenge for me to solve a problem in less than 60 minutes. I spent more than a few hours to warm up. <br> 
+
+I solved 371/ 1011 algorithms. I like to spend more time to work on algorithm problem solving. <br> 
