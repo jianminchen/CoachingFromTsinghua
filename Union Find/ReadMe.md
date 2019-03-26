@@ -1,4 +1,4 @@
-March 26, 2019<br>
+**March 26, 2019**<br>
 
 It is time for me to warm up the algorithm. I have to push myself to practice more often on the hard level algorithm. <br>
 
