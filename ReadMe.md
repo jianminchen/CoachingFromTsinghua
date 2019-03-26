@@ -57,3 +57,6 @@ Solved **300 algorithms**. I am working on middle level tree algorithms.
 
 Nov. 20, 2018 <br>
 Solved **320 algorithms**. I am working on middle level tree algorithms. There are 8 medium level tree algorithms left for me to solve! I start to get comfortable to work on medium level tree algorithms. More patience, and think carefully about use cases. I can solve them one by one. 
+
+March 26, 2019<br>
+I made another practice on union-find algorithm and it was still too challenge for me to solve a problem in less than 60 minutes. I spent more than a few hours to warm up. <br> 
