@@ -62,3 +62,8 @@ March 26, 2019<br>
 I made another practice on union-find algorithm and it was still too challenge for me to solve a problem in less than 60 minutes. I spent more than a few hours to warm up. <br> 
 
 I solved 371/ 1011 algorithms. I like to spend more time to work on algorithm problem solving. <br> 
+
+April 24, 2019<br>
+I solved **392 algorithms** on Leetcode.com. <br>
+I have to push myself hard to work on more algorithm practice. I could not pass online code assessment in March 2019, and then I had to prepare April 24, 2019 code assessment from Microsoft. <br>
+I ran mock interview code screen with a real company until I ran out of all algorithms. I practiced a few of them, after that, I just spent less than five minutes to go over all problems, and then I go over the discussion panel to see the ideas how to solve the problems. 
