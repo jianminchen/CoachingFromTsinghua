@@ -67,3 +67,7 @@ April 24, 2019<br>
 I solved **392 algorithms** on Leetcode.com. <br>
 I have to push myself hard to work on more algorithm practice. I could not pass online code assessment in March 2019, and then I had to prepare April 24, 2019 code assessment from Microsoft. <br>
 I ran mock interview code screen with a real company until I ran out of all algorithms. I practiced a few of them, after that, I just spent less than five minutes to go over all problems, and then I go over the discussion panel to see the ideas how to solve the problems. 
+
+Follow up <br>
+Sept. 11, 2019<br>
+I spent $1000 Canadian dollar to pay using paypal. I should be more careful to spend money on coaching sessions. 
