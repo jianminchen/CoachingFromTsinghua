@@ -71,3 +71,9 @@ I ran mock interview code screen with a real company until I ran out of all algo
 Follow up <br>
 Sept. 11, 2019<br>
 I spent $1000 Canadian dollar to pay using paypal. I should be more careful to spend money on coaching sessions. 
+
+Oct. 17, 2019<br>
+I solved 433 algorithms, 218 easy/ 167 medium/ 48 hard level algorithms. <br>
+I had onsite interview with Amazon and Facebook in August 2019. <br>
+I had phone screen with Docusign in Sept. 2019. <br>
+
