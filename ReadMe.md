@@ -76,4 +76,5 @@ Oct. 17, 2019<br>
 I solved 433 algorithms, 218 easy/ 167 medium/ 48 hard level algorithms. <br>
 I had onsite interview with Amazon and Facebook in August 2019. <br>
 I had phone screen with Docusign in Sept. 2019. <br>
+I had onsite interview in the city of Burnaby with Fortinet in June 2019. <br>
 
