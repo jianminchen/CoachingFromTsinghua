@@ -1,4 +1,4 @@
-It is the first time I had a coach to help me to prepare most important onsite, and I like to get ideas how to think hard and deep on algorithm and data structure. 
+It is the first time I had a coach to help me to prepare most important onsite on June 6, Amazon prime video in Seattle, USA, and I like to get ideas how to think hard and deep on algorithm and data structure. 
 
 Here is the blog after the end of coaching session: [say goodbye to my coach](http://juliachencoding.blogspot.com/2018/06/say-goodbye-to-my-coach.html)
 
