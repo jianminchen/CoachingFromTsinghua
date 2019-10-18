@@ -6,7 +6,7 @@ Here is the blog to document all the coaching session I got. [10 session of mock
 
 And also I like to check in all the source code into github. To use stack to find next large elment is my most favorite algorithm. I should have practiced more and read more on this monotonic increasing/ decreasing data structure, there are a few of cases to apply the technique. 
 
-How I made a decision who to hire as my coach in May 2018? [hire the best](http://juliachencoding.blogspot.com/search?q=hire+the+best)
+How I made a decision who to hire as my coach in May 2018? [Hire my coach](http://juliachencoding.blogspot.com/2018/05/hire-and-develop-best.html), [hire the best](http://juliachencoding.blogspot.com/search?q=hire+the+best). <br>
 
 There is a famous algorithm called Monte Carlo. I wrote a blog how to apply the algorithm to help life decision. [Monte carlo algorithm](http://juliachencoding.blogspot.com/2017/09/monte-carlo-algorithm.html)
 
