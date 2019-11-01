@@ -78,3 +78,7 @@ I had onsite interview with Amazon and Facebook in August 2019. <br>
 I had phone screen with Docusign in Sept. 2019. <br>
 I had onsite interview in the city of Burnaby with Fortinet in June 2019. <br>
 
+Nov. 1, 2019<br>
+I solved 451 algorithms, 231 easy, 172 medium, 48 hard level algorithms. <br>
+I started to work on 60 easy level algorithms first, and also I played weekly contest again. So I had chance to solve 9 easy level array tag algorithms, 5 medium level algorithms since Oct. 17, 2019. 
+
