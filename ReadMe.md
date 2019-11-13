@@ -82,3 +82,6 @@ Nov. 1, 2019<br>
 I solved 451 algorithms, 231 easy, 172 medium, 48 hard level algorithms. <br>
 I started to work on 60 easy level algorithms first, and also I played weekly contest again. So I had chance to solve 9 easy level array tag algorithms, 5 medium level algorithms since Oct. 17, 2019. 
 
+Nov. 12, 2019<br>
+I solved 457 algorithms, 235 easy, 174 medium, 48 hard level algorithms. <br>
+
