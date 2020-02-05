@@ -93,6 +93,7 @@ I passed Dialpad code screen (Nov. 25 - Dec. 9), phone screen (Dec. 10), and the
 
 I learned that I should have worked on restful web service early in 2010 when I started to work on MP Lighting. It took me 10 years to catch up latest technology, do not fall back on ASP knowledge I learned back from 1998 to 2001. I am a hard working person, I learned the lesson to be a self-learner. 
 
+Feb.5, 2020<br>
 From my personal finance, 1999 to 2019 over 20 years my finance illiterate, I only grow my portfolio to 25,000 US dollar over $5,000 dollars, average annual return is less than 2% which is smaller than inflation 4%, whereas S & P 500 index grows 300% more from 2010 to 2019, technology sector over 500%. [My 401 K and IRA in US from 1999 to 2019](
 http://juliachencoding.blogspot.com/search?q=IRA
 ) can be looked up in my blog. 
