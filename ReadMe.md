@@ -68,6 +68,9 @@ I solved **392 algorithms** on Leetcode.com. <br>
 I have to push myself hard to work on more algorithm practice. I could not pass online code assessment in March 2019, and then I had to prepare April 24, 2019 code assessment from Microsoft. <br>
 I ran mock interview code screen with a real company until I ran out of all algorithms. I practiced a few of them, after that, I just spent less than five minutes to go over all problems, and then I go over the discussion panel to see the ideas how to solve the problems. 
 
+May, 2019<br>
+I had my first onsite in Vancouver with Fortinet. I learned a few things about Http protocol, how to work on my communication, confidence level. It was such great learning experience for me. 
+
 Follow up <br>
 Sept. 11, 2019<br>
 I spent $1000 Canadian dollar to pay using paypal. I should be more careful to spend money on coaching sessions. 
@@ -84,4 +87,11 @@ I started to work on 60 easy level algorithms first, and also I played weekly co
 
 Nov. 12, 2019<br>
 I solved 457 algorithms, 235 easy, 174 medium, 48 hard level algorithms. <br>
+
+Dec., 2019<br>
+I passed Dialpad code screen, phone screen, and then I had onsite in the city of Vancouver. So excited after 4 months onsite with Facebook. 
+
+I learned that I should have worked on restful web service early in 2010 when I started to work on MP Lighting. It took me 10 years to catch up latest technology, do not fall back on ASP knowledge I learned back from 1998 to 2001. I am a hard working person, I learned the lesson to be a self-learner. From my personal finance, 1999 to 2019 over 20 years my finance illiterate, I did not grow my portfolio from 30,000 US dollar over $5,000 dollars, whereas S & P 500 index grows 300% more from 2010 to 2019, technology sector over 500%. 
+
+Everything I do is out of date, I guess. I like to study Kobe and motivate myself to be a learning machine starting from 2020. 
 
