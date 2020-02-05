@@ -95,3 +95,4 @@ I learned that I should have worked on restful web service early in 2010 when I 
 
 Everything I do is out of date, I guess. I like to study Kobe and motivate myself to be a learning machine starting from 2020. 
 
+Knowledge is power. I should have learned the lesson when I had my first 401 K deposit back in 1999. It took me 20 years to learn that. Now I like to be a top finance learner in the world. I will write every day on the topic, learn and push myself to focus on basics. 
